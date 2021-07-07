@@ -1,0 +1,5 @@
+test.txt
+MyApp/myApp/__pycache__/*
+MyApp/register/__pycache__/*
+MyApp/register/migrations/*
+Myapp/db.sqlite3
