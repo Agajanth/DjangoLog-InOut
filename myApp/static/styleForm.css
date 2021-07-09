@@ -1,0 +1,13 @@
+form{
+    background: transparent;
+    align-items: center
+
+}
+input{
+    margin-top: 100;
+    margin-bottom: 10;
+    color-scheme: rgb(177, 177, 247);
+    background-color: cornflowerblue;
+    text-emphasis-color: black;
+
+}
